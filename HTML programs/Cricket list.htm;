@@ -1,0 +1,13 @@
+<html>
+<head><b>Cricketers List</b></head>
+          <title>cricket Players</title>
+<body>
+            <select id="cricketers">
+	<option>Virat Kohli</option>
+	<option>Rohit Sharma</option>
+	<option>KL Rahul</option>
+	<option>Rishab Pant</option>
+	<option>Bhuvaneshawar</option>
+          <option>Jasprit Bumrah</option>
+</body>
+</html>
